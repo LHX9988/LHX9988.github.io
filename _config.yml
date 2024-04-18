@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Haoxiang Luo / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Haoxiang Luo"
+name                     : &name "Haoxiang Luo (罗皓翔)"
 description              : &description "a second year candidate from University of Electronic Science and Technology of China"
 url                      : https://LHX9988.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
