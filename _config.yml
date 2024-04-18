@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://HaoxiangLuo.github.io
+url                      : https://lhx9988.github.io/HaoxiangLuo.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.jpeg"
-  name             : "haoxiang Luo"
-  pronouns         : "she/her"  
+  avatar           : "LHX.PNG"
+  name             : "Haoxiang Luo"
+  pronouns         : #"she/her"  
   bio              : 
   location         : "Chengdu, China"
   employer         : "University of Electronic Science and Technology of China"
