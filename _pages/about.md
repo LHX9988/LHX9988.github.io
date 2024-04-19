@@ -163,13 +163,15 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2. TPC memeber of IEEE Vehicular Technology Conference-Fall (VTC-Fall) 2024
 
-3. TPC member of IEEE Vehicular Technology Conference-Spring (VTS-Spring) 2024
+3. TPC memeber of IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS) 2024
 
-4. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024
+4. TPC member of IEEE Vehicular Technology Conference-Spring (VTS-Spring) 2024
 
-5. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023
+5. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024
 
-6. TPC member of IEEE International Conference on Social Networks Analysis, Management and Security (SNAMS) 2023
+6. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023
+
+7. TPC member of IEEE International Conference on Social Networks Analysis, Management and Security (SNAMS) 2023
 
 ## Journal Editor
 
