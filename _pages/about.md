@@ -108,7 +108,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    _IEEE Global Communications Conference (Globecom)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10436857)
 
 3. BCACP-IoE: A Novel Blockchain-Based Security Access Control Protocol for Internet of Energy    
-   Yanchi Chen, **Haoxiang Luo**, Qi Huang, Jian Luo  
+   Yanchi Chen, **Haoxiang Luo***, Qi Huang, Jian Luo  
    _IEEE International Conference on Information Communication and Signal Processing (ICICSP)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10390666)
 
 5. Performance Analysis of Non-ideal Wireless PBFT Networks with mmWave and Terahertz Signals    
