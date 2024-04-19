@@ -107,35 +107,39 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    **Haoxiang Luo**, Qianqian Zhang, Hongfang Yu, Gang Sun, Shizhong Xu  
    _IEEE Global Communications Conference (Globecom)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10436857)
 
-4. Performance Analysis of Non-ideal Wireless PBFT Networks with mmWave and Terahertz Signals    
+3. BCACP-IoE: A Novel Blockchain-Based Security Access Control Protocol for Internet of Energy    
+   Yanchi Chen, **Haoxiang Luo**, Qi Huang, Jian Luo  
+   _IEEE International Conference on Information Communication and Signal Processing (ICICSP)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10390666)
+
+5. Performance Analysis of Non-ideal Wireless PBFT Networks with mmWave and Terahertz Signals    
    **Haoxiang Luo**, Xiangyue Yang, Hongfang Yu, Gang Sun, Shizhong Xu, Long Luo  
    _IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10271806)
 
-5. Ultra reliable and low latency authentication scheme for internet of vehicles based on blockchain    
+6. Ultra reliable and low latency authentication scheme for internet of vehicles based on blockchain    
    Xiangyue Yang, **Haoxiang Luo**, Jingshan Duan, Hongfang Yu    
    _IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)_, 2022 | [paper](https://ieeexplore.ieee.org/abstract/document/9798352)
 
-6. Security analysis of sharding in blockchain with PBFT Consensus    
+7. Security analysis of sharding in blockchain with PBFT Consensus    
    Xinling Li, **Haoxiang Luo**, Jingshan Duan  
    _ACM International Conference on Blockchain Technology (ICBCT)_, 2022 | [paper](https://dl.acm.org/doi/abs/10.1145/3532640.3532642)
    
-7. A privacy protection method based on Key encapsulation mechanism in medical blockchain    
+8. A privacy protection method based on Key encapsulation mechanism in medical blockchain    
    Yanchi Chen, **Haoxiang Luo***, Qing Bian  
    _IEEE International Conference on Communication Technology (ICCT)_, 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9658006)
 
-8. A distributed identity authentication scheme for differential fault attack    
+9. A distributed identity authentication scheme for differential fault attack    
    Yundi Deng, **Haoxiang Luo***  
    _IEEE International Conference on Communication Technology (ICCT)_, 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9657978)
 
-9. Educational Functions of Network Media Technology in Major Emergencies: A Case Study at Glasgow College, UESTC, China    
+10. Educational Functions of Network Media Technology in Major Emergencies: A Case Study at Glasgow College, UESTC, China    
    Bingjie Xie, **Haoxiang Luo***  
    _IEEE International Conference on Education, Knowledge and Information Management (ICEKIM)_, 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9479577)
 
-10. Differential Fault Attack on TWINE Block Cipher with Nibble    
+11. Differential Fault Attack on TWINE Block Cipher with Nibble    
     **Haoxiang Luo**, Yifan Wu, Weijian Chen  
    _IEEE International Conference on Communication Technology (ICCT)_, 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9295786)
    
-11. Analysis of a multichannel lightweight identity authentication method    
+12. Analysis of a multichannel lightweight identity authentication method    
     **Haoxiang Luo**, Weijian Chen, Cheng Chen, Yiqing Yang, Yingyi Zhang, Yifan Wu    
    _IEEE International Conference on Communication Technology (ICCT)_, 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8947038)
 
