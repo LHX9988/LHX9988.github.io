@@ -163,9 +163,9 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2. TPC member of IEEE Global Blockchain Conference (GBC) 2024
 
-3. TPC memeber of IEEE Vehicular Technology Conference-Fall (VTC-Fall) 2024
+3. TPC member of IEEE Vehicular Technology Conference-Fall (VTC-Fall) 2024
 
-4. TPC memeber of IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS) 2024
+4. TPC member of IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS) 2024
 
 5. TPC member of IEEE Vehicular Technology Conference-Spring (VTC-Spring) 2024
 
