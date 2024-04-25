@@ -69,10 +69,6 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    **Haoxiang Luo**, Xiangyue Yang, Hongfang Yu, Gang Sun, Bo Lei, Mohsen Guizani  
    _IEEE Internet of Things Journal （IoTJ）_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10275077)
 
-9. Performance Analysis and Comparison of Nonideal Wireless PBFT and RAFT Consensus Networks in 6G Communications     
-   **Haoxiang Luo**, Xiangyue Yang, Hongfang Yu, Gang Sun, Bo Lei, Mohsen Guizani  
-   _IEEE Internet of Things Journal （IoTJ）_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10275077)
-
 10. ULS-PBFT: An ultra-low storage overhead PBFT consensus for blockchain     
    **Haoxiang Luo***  
    _Blockchain: Research and Applications (BCRA)_, 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S2096720923000301)
