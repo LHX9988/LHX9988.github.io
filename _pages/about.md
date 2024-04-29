@@ -92,7 +92,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 ## Conference Papers:
 
 1. Joint Optimization of Communication and Storage for Blockchain Sharding in Energy Transactions   
-   Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu
+   Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu   
    _IEEE Global Blockchain Conference (GBC)_, under review
 
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
