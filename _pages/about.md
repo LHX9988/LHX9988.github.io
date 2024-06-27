@@ -43,11 +43,11 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 3. BC4LLM: A Perspective of Trusted Artificial Intelligence When Blockchain Meets Large Language Models  
    **Haoxiang Luo***, Jiang Luo, Athanasios V. Vasilakos        
-   _Neurocomputing (NEUCOM)_, 2024 | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008609)
+   _Neurocomputing (NEUCOM)_, 2024 | [paper] (https://www.sciencedirect.com/science/article/abs/pii/S0925231224008609)
    
-4. 面向RAFT共识的低能耗无线区块链分片算法  
+5. 面向RAFT共识的低能耗无线区块链分片算法  
    **罗皓翔**, 孙罡, 雷波        
-   _电子科技大学学报_, 2024 | [paper]((http://www.juestc.uestc.edu.cn/cn/article/doi/10.12178/1001-0548.2023189)
+   _电子科技大学学报_, 2024 | [paper] (http://www.juestc.uestc.edu.cn/cn/article/doi/10.12178/1001-0548.2023189)
 
 4. ESCM: An Efficient and Secure Communication Mechanism for UAV Networks   
    **Haoxiang Luo**, Yifan Wu, Gang Sun, Hongfang Yu, Mohsen Guizani  
