@@ -185,15 +185,19 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 ## Selected Technical Reviewer:
 
 1. IEEE Transactions on Wireless Communications (TWC)
+   
+2. IEEE Transactions on Network Science and Engineering (TNSE)
+   
+3. IEEE Internet of Things (IoTJ)
 
-2. IEEE Internet of Things (IoTJ)
+4. IEEE ACCESS
 
-3. IEEE ACCESS
+5. Elsevier Blockchain: Research and Applications (BCRA)
 
-4. Elsevier Blockchain: Research and Applications (BCRA)
+6. Spinger The Journal of Supercomputing
 
-5. Spinger The Journal of Supercomputing
+7. Spinger Peer-to-Peer Networking and Applications
 
-6. Tech Science Press Computers, Materials & Continua (CMC)
+8. Tech Science Press Computers, Materials & Continua (CMC)
 
-7. EnPress Journal of Infrastructure, Policy and Development (JIPD)
+9. EnPress Journal of Infrastructure, Policy and Development (JIPD)
