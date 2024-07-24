@@ -91,19 +91,19 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 ## Conference Papers:
 
-1. Joint Optimization of Communication and Storage for Blockchain Sharding in Energy Transactions   
-   Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu   
-   _IEEE Global Blockchain Conference (GBC)_, under review
-
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
    **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang  
    _IEEE Global Communications Conference (Globecom)_, under review
 
-2. DHBN: An Efficient Broadcast Protocol for Blockchain Networks in Highly Dynamic Heterogeneous Environment  
+1. Joint Optimization of Communication and Storage for Blockchain Sharding in Energy Transactions   
+   Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu   
+   _IEEE Global Blockchain Conference (GBC)_, accepted, 2024
+   
+3. DHBN: An Efficient Broadcast Protocol for Blockchain Networks in Highly Dynamic Heterogeneous Environment  
    Runze Zheng, **Haoxiang Luo**, Gang Sun, Hongfang Yu  
-   _IEEE Wireless Communications and Networking Conference (WCNC)_, accepted, 2024
+   _IEEE Wireless Communications and Networking Conference (WCNC)_, 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10570814)
 
-3. Symbiotic PBFT Consensus: Cognitive Backscatter Communications-enabled Wireless PBFT Consensus    
+4. Symbiotic PBFT Consensus: Cognitive Backscatter Communications-enabled Wireless PBFT Consensus    
    **Haoxiang Luo**, Qianqian Zhang, Hongfang Yu, Gang Sun, Shizhong Xu  
    _IEEE Global Communications Conference (Globecom)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10436857)
 
