@@ -32,7 +32,11 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
-  
+
+1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks     
+   **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
+   _IEEE Wireless Communications Magazine (WCM)_, under review
+
 1. Blockchain for Energy Market: A Comprehensive Survey  
    Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Athanasios V. Vasilakos  
    _Sustainable Energy, Grids and Networks (SEGAN)_, under review | [paper](https://arxiv.org/abs/2403.20045)  
