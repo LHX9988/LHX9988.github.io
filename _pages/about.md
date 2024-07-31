@@ -97,7 +97,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
    **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang  
-   _IEEE Global Communications Conference (Globecom)_, under review
+   _IEEE Global Communications Conference (Globecom)_, accepted, 2024
 
 1. Joint Optimization of Communication and Storage for Blockchain Sharding in Energy Transactions   
    Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu   
@@ -182,26 +182,28 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 ## Journal Editor
 
-1. [Computer and Telecommunication Engineering (CTE)](https://aber.apacsci.com/index.php/CTE), ISSN 3029-2298, Editor
-
-2. [Energy Storage and Conversion (ESC)](https://ojs.acad-pub.com/index.php/ESC), ISSN 3029-2778, Guest Editor for the Special Issue on “[Energy markets and trading](http://2oldtoojsacad.acad-pub.com/s.php/index/detail?id=328)”, 2023
+1. [Energy Storage and Conversion (ESC)](https://ojs.acad-pub.com/index.php/ESC), ISSN 3029-2778, Guest Editor for the Special Issue on “[Energy markets and trading](http://2oldtoojsacad.acad-pub.com/s.php/index/detail?id=328)”, 2023
  
 ## Selected Technical Reviewer:
 
 1. IEEE Transactions on Wireless Communications (TWC)
    
 2. IEEE Transactions on Network Science and Engineering (TNSE)
-   
+
+3. IEEE Transactions on Computational Social Systems (TCCS)
+
 3. IEEE Internet of Things (IoTJ)
 
 4. IEEE ACCESS
+  
+6. Elsevier Neurocomputing (NEUCOM)
 
-5. Elsevier Blockchain: Research and Applications (BCRA)
+7. Elsevier Blockchain: Research and Applications (BCRA)
 
-6. Spinger The Journal of Supercomputing
+8. Spinger The Journal of Supercomputing
 
-7. Spinger Peer-to-Peer Networking and Applications
+9. Spinger Peer-to-Peer Networking and Applications
 
-8. Tech Science Press Computers, Materials & Continua (CMC)
+10. Tech Science Press Computers, Materials & Continua (CMC)
 
-9. EnPress Journal of Infrastructure, Policy and Development (JIPD)
+11. EnPress Journal of Infrastructure, Policy and Development (JIPD)
