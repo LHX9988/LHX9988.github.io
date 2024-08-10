@@ -200,9 +200,9 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
-8. Spinger The Journal of Supercomputing
+8. Spinger The Journal of Supercomputing (TJSC)
 
-9. Spinger Peer-to-Peer Networking and Applications
+9. Spinger Peer-to-Peer Networking and Applications (PPNA)
 
 10. Tech Science Press Computers, Materials & Continua (CMC)
 
