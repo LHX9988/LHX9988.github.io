@@ -184,7 +184,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 7. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024
 
-8. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023
+8. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024
 
 
 ## Journal Editor
