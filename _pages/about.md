@@ -50,7 +50,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks     
    Jiale Chen, **Haoxiang Luo***     
-    _Peer-to-Peer Networking and Applications （PPNA）_, accepted
+    _Peer-to-Peer Networking and Applications (PPNA)_, accepted
 
 5. BC4LLM: A Perspective of Trusted Artificial Intelligence When Blockchain Meets Large Language Models  
    **Haoxiang Luo***, Jiang Luo, Athanasios V. Vasilakos        
