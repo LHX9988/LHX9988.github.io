@@ -70,7 +70,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 6. A low-cost blockchain node deployment algorithm for the internet of things   
    Xinyu Lai, Youchi Zhang, **Haoxiang Luo***  
-    _Peer-to-Peer Networking and Applications （PPNA）_, 2024 | [paper](https://link.springer.com/article/10.1007/s12083-023-01615-5)
+    _Peer-to-Peer Networking and Applications (PPNA)_, 2024 | [paper](https://link.springer.com/article/10.1007/s12083-023-01615-5)
 
 7. ESIA: An Efficient and Stable Identity Authentication for Internet of Vehicles     
    **Haoxiang Luo**, Jin Zhang, Xinling Li, Zonghang Li, Hongfang Yu, Gang Sun, Dusit Niyato  
