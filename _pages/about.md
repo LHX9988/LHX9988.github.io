@@ -32,10 +32,13 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks        
+   Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
+   _IEEE Internet of Things (IoTJ)_, under review
 
 1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks     
    **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
-   _IEEE Wireless Communications Magazine (WCM)_, under review
+   _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2408.05776)  
 
 1. Blockchain for Energy Market: A Comprehensive Survey  
    Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Athanasios V. Vasilakos  
@@ -45,11 +48,15 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
    _IEEE/ACM Transactions on Networking (ToN)_, under review | [paper](https://arxiv.org/abs/2312.08899)
 
-3. BC4LLM: A Perspective of Trusted Artificial Intelligence When Blockchain Meets Large Language Models  
+3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks
+   Jiale Chen, **Haoxiang Luo***
+    _Peer-to-Peer Networking and Applications （PPNA）_, accepted
+
+5. BC4LLM: A Perspective of Trusted Artificial Intelligence When Blockchain Meets Large Language Models  
    **Haoxiang Luo***, Jiang Luo, Athanasios V. Vasilakos        
    _Neurocomputing (NEUCOM)_, 2024 | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224008609)
    
-5. 面向RAFT共识的低能耗无线区块链分片算法  
+6. 面向RAFT共识的低能耗无线区块链分片算法  
    **罗皓翔**, 孙罡, 雷波        
    _电子科技大学学报_, 2024 | [paper](http://www.juestc.uestc.edu.cn/cn/article/doi/10.12178/1001-0548.2023189)
 
