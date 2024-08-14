@@ -48,8 +48,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
    _IEEE/ACM Transactions on Networking (ToN)_, under review | [paper](https://arxiv.org/abs/2312.08899)
 
-3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks
-   Jiale Chen, **Haoxiang Luo***
+3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks     
+   Jiale Chen, **Haoxiang Luo***     
     _Peer-to-Peer Networking and Applications （PPNA）_, accepted
 
 5. BC4LLM: A Perspective of Trusted Artificial Intelligence When Blockchain Meets Large Language Models  
