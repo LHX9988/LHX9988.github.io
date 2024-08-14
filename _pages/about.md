@@ -34,7 +34,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 ## Journal Papers:
 1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks        
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
-   _IEEE Internet of Things (IoTJ)_, under review
+   _IEEE Internet of Things Journal (IoTJ)_, under review
 
 1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks     
    **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
