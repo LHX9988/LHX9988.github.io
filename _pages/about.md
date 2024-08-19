@@ -85,11 +85,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 7. ESIA: An Efficient and Stable Identity Authentication for Internet of Vehicles     
    **Haoxiang Luo**, Jin Zhang, Xinling Li, Zonghang Li, Hongfang Yu, Gang Sun, Dusit Niyato  
-   _IEEE Transactions on Vehicular Technology （TVT）_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10310120)
+   _IEEE Transactions on Vehicular Technology (TVT)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10310120)
 
 8. Performance Analysis and Comparison of Nonideal Wireless PBFT and RAFT Consensus Networks in 6G Communications     
    **Haoxiang Luo**, Xiangyue Yang, Hongfang Yu, Gang Sun, Bo Lei, Mohsen Guizani  
-   _IEEE Internet of Things Journal （IoTJ）_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10275077)
+   _IEEE Internet of Things Journal (IoTJ)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10275077)
 
 10. ULS-PBFT: An ultra-low storage overhead PBFT consensus for blockchain     
    **Haoxiang Luo***  
