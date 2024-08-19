@@ -25,9 +25,9 @@ From September 2023 to the present, I serve as a Lead TA in the Information Secu
 
 From May to July 2022, I worked as RA in Siemens Ltd., China Chengdu Branch to carry out research on edge computing for Industrial Internet of Things.
 
-From July to December 2020, I worked as a RA in Tsinghua Sichuan Energy Internet Research Institute to carry out research on Vehicle to Grid (V2G), under the leadership of Dr. [Wei Xiao](https://www.tsinghua-eiri.org/talents.aspx?t=52).
+From July to December 2020, I worked as a RA in [Tsinghua Sichuan Energy Internet Research Institute](https://www.tsinghua-eiri.org/) to carry out research on Vehicle to Grid (V2G), under the leadership of Dr. [Wei Xiao](https://www.tsinghua-eiri.org/talents.aspx?t=52).
 
-From May to November 2019, I worked as RA in Sichuan Provincial Key Laboratory of Power System Wide-Area Measurement and Control to carry out research on Energy Internet under the guidance of IEEE Fellow, Prof. [Qi Huang](https://www.swust.edu.cn/_s2/2022/1020/c11416a198130/page.psp).
+From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory of Power System Wide-Area Measurement and Control](http://www.uestcwams.com/) to carry out research on Energy Internet under the guidance of the Lab director, IEEE Fellow, Prof. [Qi Huang](https://www.swust.edu.cn/_s2/2022/1020/c11416a198130/page.psp).
 
 
 # Publications
