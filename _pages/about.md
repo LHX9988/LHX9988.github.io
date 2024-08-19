@@ -61,7 +61,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks     
    Jiale Chen, **Haoxiang Luo***     
-    _Peer-to-Peer Networking and Applications (PPNA)_, accepted
+    _Peer-to-Peer Networking and Applications (PPNA)_, 2024 | [paper](https://link.springer.com/article/10.1007/s12083-024-01777-w)
 
 5. BC4LLM: A Perspective of Trusted Artificial Intelligence When Blockchain Meets Large Language Models  
    **Haoxiang Luo***, Jiang Luo, Athanasios V. Vasilakos        
