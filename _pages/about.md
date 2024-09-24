@@ -21,6 +21,10 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 From September 2023 to the present, I serve as a Lead TA in the Information Security course at the University of Glasgow, UK., under the guidance of Dr. [Faisal Tariq](https://www.gla.ac.uk/schools/engineering/staff/faisaltariq/) and Dr. [Yao Sun](https://www.gla.ac.uk/schools/engineering/staff/yaosun/).
 
+From February to June 2024, I serve as a only TA in the Information Theory course at the UESTC, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124), who is he Chair Professor of teaching in our School.
+
+From September to December 2021, I serve as a TA in the Computer Communication Network course at the UESTC, under the guidance of Prof. [Jingshan Duan](https://www.sice.uestc.edu.cn/info/1454/12589.htm), who is he Chair Professor of experiment in our School.
+
 ## Research Assistant
 
 From May to July 2022, I worked as RA in Siemens Ltd., China Chengdu Branch to carry out research on edge computing for Industrial Internet of Things.
@@ -57,7 +61,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 2. Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus  
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
-   _IEEE/ACM Transactions on Networking (ToN)_, under review | [paper](https://arxiv.org/abs/2312.08899)
+   _IEEE/ACM Transactions on Networking (ToN)_, accept | [paper](https://arxiv.org/abs/2312.08899)
 
 3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks     
    Jiale Chen, **Haoxiang Luo***     
@@ -193,7 +197,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 6. TPC member of IEEE Vehicular Technology Conference-Spring (VTC-Spring) 2024
 
-7. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024
+7. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024/2025
 
 8. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024
 
@@ -203,12 +207,13 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. [Energy Storage and Conversion (ESC)](https://ojs.acad-pub.com/index.php/ESC), ISSN 3029-2778, Guest Editor for the Special Issue on “[Energy markets and trading](http://2oldtoojsacad.acad-pub.com/s.php/index/detail?id=328)”, 2023
  
 ## Selected Technical Reviewer:
+1. IEEE Wireless Communictions
 
 1. IEEE Transactions on Wireless Communications (TWC)
    
 2. IEEE Transactions on Network Science and Engineering (TNSE)
 
-3. IEEE Transactions on Computational Social Systems (TCCS)
+3. IEEE Transactions on Computational Social Systems (TCSS)
 
 4. IEEE Transactions on Artificial Intelligence (TAI)
 
