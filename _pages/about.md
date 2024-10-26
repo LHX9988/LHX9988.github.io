@@ -61,7 +61,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 2. Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus  
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
-   _IEEE/ACM Transactions on Networking (ToN)_, accept | [paper](https://arxiv.org/abs/2312.08899)
+   _IEEE/ACM Transactions on Networking (ToN)_, accept | [paper](https://ieeexplore.ieee.org/document/10697309/)
 
 3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks     
    Jiale Chen, **Haoxiang Luo***     
@@ -116,6 +116,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _IEEE ACCESS_, 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9364996)
 
 ## Conference Papers:
+
+1. SCRaft: Achieving Fast and Stable Elections in Raft Consensus Algorithm  
+   Yiqi Wang, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
+   _IEEE International Conference on High Performance Computing and Communications (HPCC)_, accepted, 2024
 
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
    **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang  
@@ -223,6 +227,8 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
   
 6. Elsevier Neurocomputing (NEUCOM)
 
+7. Elsevier Computers and Electrical Engineering  
+   
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
 8. Spinger The Journal of Supercomputing (TJSC)
