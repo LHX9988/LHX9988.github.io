@@ -231,10 +231,12 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
-8. Spinger The Journal of Supercomputing (TJSC)
+8. Springer The Journal of Supercomputing (TJSC)
 
-9. Spinger Peer-to-Peer Networking and Applications (PPNA)
+9. Springer Peer-to-Peer Networking and Applications (PPNA)
 
-10. Tech Science Press Computers, Materials & Continua (CMC)
+10. Springer Cluster Computing
 
-11. EnPress Journal of Infrastructure, Policy and Development (JIPD)
+11. Tech Science Press Computers, Materials & Continua (CMC)
+
+12. EnPress Journal of Infrastructure, Policy and Development (JIPD)
