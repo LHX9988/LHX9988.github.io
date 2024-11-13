@@ -213,6 +213,8 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 ## Selected Technical Reviewer:
 1. IEEE Wireless Communictions
 
+2. 1. IEEE Internet of Things Magazine (IoTM)
+
 1. IEEE Transactions on Wireless Communications (TWC)
    
 2. IEEE Transactions on Network Science and Engineering (TNSE)
@@ -233,12 +235,14 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 8. Elsevier International Journal of Cognitive Computing in Engineering (IJCCE)
 
-9. Springer The Journal of Supercomputing (TJSC)
+9. Elsevier Engineering Science and Technology, an International Journal (JESTCH)
 
-10. Springer Peer-to-Peer Networking and Applications (PPNA)
+10. Springer The Journal of Supercomputing (TJSC)
 
-11. Springer Cluster Computing
+11. Springer Peer-to-Peer Networking and Applications (PPNA)
 
-12. Tech Science Press Computers, Materials & Continua (CMC)
+12. Springer Cluster Computing
 
-13. EnPress Journal of Infrastructure, Policy and Development (JIPD)
+13. Tech Science Press Computers, Materials & Continua (CMC)
+
+14. EnPress Journal of Infrastructure, Policy and Development (JIPD)
