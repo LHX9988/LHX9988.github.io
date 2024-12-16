@@ -47,9 +47,13 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1.  DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
+   Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Schahram Dustdar, Dusit Niyato   
+   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742) 
+
 1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks        
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
-   _IEEE Internet of Things Journal (IoTJ)_, under review
+   _IEEE Internet of Things Journal (IoTJ)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172565468.81767780)  
 
 1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks     
    **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
@@ -245,10 +249,12 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 10. Springer The Journal of Supercomputing (TJSC)
 
-11. Springer Peer-to-Peer Networking and Applications (PPNA)
+11. Springer Financial Innovation (FINI)
 
-12. Springer Cluster Computing
+12. Springer Peer-to-Peer Networking and Applications (PPNA)
 
-13. Tech Science Press Computers, Materials & Continua (CMC)
+13. Springer Cluster Computing
 
-14. EnPress Journal of Infrastructure, Policy and Development (JIPD)
+14. Tech Science Press Computers, Materials & Continua (CMC)
+
+15. EnPress Journal of Infrastructure, Policy and Development (JIPD)
