@@ -65,7 +65,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 2. Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus  
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
-   _IEEE/ACM Transactions on Networking (ToN)_, accept | [paper](https://ieeexplore.ieee.org/document/10697309/)
+   _IEEE/ACM Transactions on Networking (ToN)_, 2024 | [paper](https://ieeexplore.ieee.org/document/10697309/)
 
 3. SusChain: A Sustainable Sharding Scheme for UAV Blockchain Networks     
    Jiale Chen, **Haoxiang Luo***     
