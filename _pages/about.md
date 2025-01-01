@@ -53,7 +53,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks        
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
-   _IEEE Sensors Journal (IoTJ)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172565468.81767780)  
+   _IEEE Sensors Journal (SENSJ)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172565468.81767780)  
 
 1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks     
    **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
