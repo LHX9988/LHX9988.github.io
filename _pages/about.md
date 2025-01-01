@@ -53,15 +53,15 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks        
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
-   _IEEE Internet of Things Journal (IoTJ)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172565468.81767780)  
+   _IEEE Sensors Journal (IoTJ)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172565468.81767780)  
 
 1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks     
    **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
-   _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2408.05776)  
+   _IEEE Wireless Communications Magazine (WCM)_, 2025 | [paper](https://arxiv.org/abs/2408.05776)  
 
 1. Blockchain for Energy Market: A Comprehensive Survey  
    Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Athanasios V. Vasilakos  
-   _Sustainable Energy, Grids and Networks (SEGAN)_, under review | [paper](https://arxiv.org/abs/2403.20045)  
+   _Sustainable Energy, Grids and Networks (SEGAN)_, 2025 | [paper](https://www.sciencedirect.com/science/article/abs/pii/S2352467724003448)  
 
 2. Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus  
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
