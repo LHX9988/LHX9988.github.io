@@ -51,7 +51,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Schahram Dustdar, Dusit Niyato   
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742) 
 
-1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks        
+1.  Broadcast Protocols in Blockchain Networks — Accelerating Block and Transaction Propagation: A Review        
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar      
    _IEEE Sensors Journal (SENSJ)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172565468.81767780)  
 
