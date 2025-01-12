@@ -219,9 +219,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 ## Selected Technical Reviewer:
 1. IEEE Wireless Communictions
 
-2. IEEE Communications Magazine
+3. IEEE Communications Magazine
 
-3. IEEE Internet of Things Magazine (IoTM)
+4. IEEE Network
+
+5. IEEE Internet of Things Magazine (IoTM)
 
 1. IEEE Transactions on Wireless Communications (TWC)
    
