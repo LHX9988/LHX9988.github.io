@@ -21,9 +21,9 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 From September 2023 to the present, I serve as a Lead TA in the Information Security course at the University of Glasgow, UK., under the guidance of Dr. [Faisal Tariq](https://www.gla.ac.uk/schools/engineering/staff/faisaltariq/) and Dr. [Yao Sun](https://www.gla.ac.uk/schools/engineering/staff/yaosun/).
 
-From February to June 2024, I serve as a only TA in the Information Theory course at the UESTC, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124), who is he Chair Professor of teaching in our School.
+From February to June 2024, I serve as a only TA in the Information Theory course at the UESTC, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124), who is the Chair Professor of teaching in our School.
 
-From September to December 2021, I serve as a TA in the Computer Communication Network course at the UESTC, under the guidance of Prof. [Jingshan Duan](https://www.sice.uestc.edu.cn/info/1454/12589.htm), who is he Chair Professor of experiment in our School.
+From September to December 2021, I serve as a TA in the Computer Communication Network course at the UESTC, under the guidance of Prof. [Jingshan Duan](https://www.sice.uestc.edu.cn/info/1454/12589.htm), who is the Chair Professor of experiment in our School.
 
 ## Research Assistant
 
