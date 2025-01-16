@@ -47,6 +47,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1.  Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity          
+   **Haoxiang Luo**, Gang Sun, Jiacheng Wang, Hongfang Yu, Schahram Dustdar, Dusit Niyato, Zhu Han   
+   _IEEE Communications Surveys and Tutorials (COMST)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173626792.21015557) 
+
 1.  DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Schahram Dustdar, Dusit Niyato   
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742) 
