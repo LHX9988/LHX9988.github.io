@@ -125,6 +125,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Conference Papers:
 
+1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV     
+   Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
+   _IEEE International Conference on Communications (ICC)_, accepted, 2025
+
 1. SCRaft: Achieving Fast and Stable Elections in Raft Consensus Algorithm  
    Yiqi Wang, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
    _IEEE International Conference on High Performance Computing and Communications (HPCC)_, accepted, 2024
