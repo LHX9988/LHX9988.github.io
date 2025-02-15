@@ -203,21 +203,23 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. Session chair of IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) 2023
 
-2. TPC member of IEEE International Conference on Communicaiotns (ICC) 2025
+2. TPC member of IEEE International Symposium on Information Theory (ISIT) 2025
 
-3. TPC member of IEEE International Conference on ICT Solutions for eHealth (ICTS4eHealth) 2024
+3. TPC member of IEEE International Conference on Communicaiotns (ICC) 2025
 
-4. TPC member of IEEE Global Blockchain Conference (GBC) 2024
+4. TPC member of IEEE International Conference on ICT Solutions for eHealth (ICTS4eHealth) 2024
 
-5. TPC member of IEEE Vehicular Technology Conference-Fall (VTC-Fall) 2024
+5. TPC member of IEEE Global Blockchain Conference (GBC) 2024
 
-6. TPC member of IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS) 2024
+6. TPC member of IEEE Vehicular Technology Conference-Fall (VTC-Fall) 2024
 
-7. TPC member of IEEE Vehicular Technology Conference-Spring (VTC-Spring) 2024
+7. TPC member of IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS) 2024
 
-8. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024/2025
+8. TPC member of IEEE Vehicular Technology Conference-Spring (VTC-Spring) 2024
 
-9. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024
+9. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024/2025
+
+10. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024
 
 
 ## Journal Editor
