@@ -245,7 +245,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 5. IEEE Transactions on Vehicular Technology (TVT)
 
-3. IEEE Internet of Things (IoTJ)
+3. IEEE Internet of Things Journal (IoTJ)
 
 4. IEEE ACCESS
   
