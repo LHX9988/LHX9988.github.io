@@ -187,9 +187,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Patents:
 
-1. 一种基于区块链的大语言模型网络生成优化方法
-   孙罡, **罗皓翔**,  虞红芳, 罗龙, 孙健
+1. 一种基于区块链的大语言模型网络生成优化方法   
+   孙罡, **罗皓翔**,  虞红芳, 罗龙, 孙健   
    CN202510185259.6, 2025
+   
 1. 一种基于共生通信的无线区块链共识方法   
    **罗皓翔**, 孙罡,  虞红芳  
    CN202311152620.2, 2023
@@ -254,7 +255,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
   
 6. Elsevier Neurocomputing (NEUCOM)
 
-7. Elsevier Digital Communications and Networks (DCN)
+7. Elsevier Digital Communications and Networks (DCN)   
 
 8. Elsevier Computers and Electrical Engineering  
    
