@@ -277,6 +277,4 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 13. Springer Cluster Computing
 
-14. Tech Science Press Computers, Materials & Continua (CMC)
-
-15. EnPress Journal of Infrastructure, Policy and Development (JIPD)
+And others.
