@@ -142,7 +142,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _IEEE Global Blockchain Conference (GBC)_, accepted, 2024
 
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
-   **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang
+   **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang    
    _IEEE Global Communications Conference (Globecom)_, accepted, 2024 | [paper](https://ieeexplore.ieee.org/document/10901434)
    
 3. DHBN: An Efficient Broadcast Protocol for Blockchain Networks in Highly Dynamic Heterogeneous Environment  
