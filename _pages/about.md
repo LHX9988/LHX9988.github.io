@@ -232,9 +232,9 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Journal Editor
 
-1. [Energy Storage and Conversion (ESC)](https://ojs.acad-pub.com/index.php/ESC), ISSN 3029-2778, Guest Editor for the Special Issue on “[Energy markets and trading](http://2oldtoojsacad.acad-pub.com/s.php/index/detail?id=328)”, 2023
+1. [Energy Storage and Conversion](https://ojs.acad-pub.com/index.php/ESC), ISSN 3029-2778, Guest Editor for the Special Issue on “[Energy markets and trading](http://2oldtoojsacad.acad-pub.com/s.php/index/detail?id=328)”, 2023
 
-2. [中国科学与技术学报](https://ojs.wisvora.com/index.php/cjst)(China Journal of Science and Technology, CJST), ISSN 3079-8434, [青年编委(Young Editorial Board Member)](https://ojs.wisvora.com/index.php/cjst/about/editorialTeam), since 2025.
+2. [中国科学与技术学报](https://ojs.wisvora.com/index.php/cjst) (China Journal of Science and Technology, CJST), ISSN 3079-8434, [青年编委](https://ojs.wisvora.com/index.php/cjst/about/editorialTeam) (Young Editorial Board Member), since 2025.
  
 ## Selected Technical Reviewer:
 1. IEEE Wireless Communictions
