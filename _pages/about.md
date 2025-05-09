@@ -47,6 +47,14 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1.  A Trustworthy Multi-LLM Network: Challenges,Solutions, and A Use Case             
+   **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
+   _IEEE Communications Magazine (ComMag)_, under review | [paper](https://arxiv.org/abs/2505.03196)
+
+1.  A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
+   **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
+   _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2505.05103)  
+
 1.  Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity          
    **Haoxiang Luo**, Gang Sun, Jiacheng Wang, Hongfang Yu, Schahram Dustdar, Dusit Niyato, Zhu Han   
    _IEEE Communications Surveys and Tutorials (COMST)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173626792.21015557) 
