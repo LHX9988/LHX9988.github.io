@@ -12,7 +12,7 @@ I'm Haoxiang Luo, a second-year Ph.D. candidate with the major of Information an
 
 Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https://www.gla.uestc.edu.cn/), which is a join programme between the [UESTC](https://www.uestc.edu.cn/) and the University of Glasgow ([UoG](https://www.gla.ac.uk/)), UK, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124).
 
-At this moment, my research interests are Blockchain, Internet of Things, Networks, Energy markets, and so on.
+At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy markets, and so on. Also, I am currently a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN).
 
 
 # Working Experience
