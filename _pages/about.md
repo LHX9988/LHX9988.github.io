@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Haoxiang Luo, a third-year Ph.D. candidate with the major of Information and Communication Engineering from the Key Laboratory of Optical Fiber Sensing and Communications (Ministry of Education), [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China, advised by Prof. [Hongfang Yu](https://scholar.google.com.hk/citations?user=GmEdMqwAAAAJ&hl=zh-CN) and Prof. [Gang Sun](https://scholar.google.com.hk/citations?user=aUPwLyYAAAAJ&hl=zh-CN). 
+I'm Haoxiang Luo, a third-year Ph.D. candidate with the major of Information and Communication Engineering from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China, advised by Prof. [Hongfang Yu](https://scholar.google.com.hk/citations?user=GmEdMqwAAAAJ&hl=zh-CN) and Prof. [Gang Sun](https://scholar.google.com.hk/citations?user=aUPwLyYAAAAJ&hl=zh-CN). 
 
 Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https://www.gla.uestc.edu.cn/), which is a join programme between the [UESTC](https://www.uestc.edu.cn/) and the University of Glasgow ([UoG](https://www.gla.ac.uk/)), UK, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124).
 
