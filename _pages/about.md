@@ -145,10 +145,6 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Yiqi Wang, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
    _IEEE International Conference on High Performance Computing and Communications (HPCC)_, accepted, 2024
 
-1. Joint Optimization of Communication and Storage for Blockchain Sharding in Energy Transactions   
-   Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu   
-   _IEEE Global Blockchain Conference (GBC)_, accepted, 2024
-
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
    **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang    
    _IEEE Global Communications Conference (Globecom)_, accepted, 2024 | [paper](https://ieeexplore.ieee.org/document/10901434)
