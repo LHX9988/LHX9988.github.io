@@ -107,7 +107,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    **Haoxiang Luo**, Jin Zhang, Xinling Li, Zonghang Li, Hongfang Yu, Gang Sun, Dusit Niyato  
    _IEEE Transactions on Vehicular Technology (TVT)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10310120)
 
-8. Performance Analysis and Comparison of Nonideal Wireless PBFT and RAFT Consensus Networks in 6G Communications     
+8. Performance Analysis and Comparison of Nonideal Wireless PBFT and RAFT Consensus Networks in 6G Communications (**ESI Highly Cited Paper**)         
    **Haoxiang Luo**, Xiangyue Yang, Hongfang Yu, Gang Sun, Bo Lei, Mohsen Guizani  
    _IEEE Internet of Things Journal (IoTJ)_, 2023 | [paper](https://ieeexplore.ieee.org/abstract/document/10275077)
 
@@ -133,7 +133,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Conference Papers:
 
-1. WBFT-MLLMN: A Weighted BFT Consensus Driven Multiple Large Language Models Network (**Best paper award**)     
+1. WBFT-MLLMN: A Weighted BFT Consensus Driven Multiple Large Language Models Network (**Best Paper Award**)     
    **Haoxiang Luo**, Gang Sun, Hongfang Yu    
    _IEEE International Conference on Deep Learning and Computer Vision (DLCV)_, accepted, 2025
 
@@ -145,7 +145,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Yiqi Wang, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
    _IEEE International Conference on High Performance Computing and Communications (HPCC)_, accepted, 2024
 
-1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks  
+1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks (**Student Travel Grant**)       
    **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang    
    _IEEE Global Communications Conference (Globecom)_, accepted, 2024 | [paper](https://ieeexplore.ieee.org/document/10901434)
    
