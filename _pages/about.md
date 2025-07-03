@@ -64,7 +64,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _IEEE Communications Surveys and Tutorials (COMST)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173626792.21015557) 
 
 1.  DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
-   Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Schahram Dustdar, Dusit Niyato   
+   Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato, Schahram Dustdar    
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742) 
 
 1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks           
