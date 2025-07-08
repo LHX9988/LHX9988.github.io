@@ -254,14 +254,16 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 5. IEEE Internet of Things Magazine (IoTM)
 
 1. IEEE Transactions on Wireless Communications (TWC)
+
+2. IEEE Transactions on Cognitive Communications and Networking (TCCN)
    
-2. IEEE Transactions on Network Science and Engineering (TNSE)
+3. IEEE Transactions on Network Science and Engineering (TNSE)
 
-3. IEEE Transactions on Computational Social Systems (TCSS)
+4. IEEE Transactions on Computational Social Systems (TCSS)
 
-4. IEEE Transactions on Artificial Intelligence (TAI)
+5. IEEE Transactions on Artificial Intelligence (TAI)
 
-5. IEEE Transactions on Vehicular Technology (TVT)
+6. IEEE Transactions on Vehicular Technology (TVT)
 
 3. IEEE Internet of Things Journal (IoTJ)
 
