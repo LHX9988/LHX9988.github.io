@@ -235,7 +235,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 9. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024/2025
 
-10. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024
+10. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024/2025
 
 
 ## Journal Editor
