@@ -199,6 +199,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Patents:
 
+1. 面向轻量级节点的支付通道网络路由方法及其系统      
+   孙罡, 陈景晖，蔡青青，**罗皓翔**,  虞红芳, 罗龙, 孙健   
+   CN202510335781.8, 2025
+
 1. 一种基于区块链的大语言模型网络生成优化方法   
    孙罡, **罗皓翔**,  虞红芳, 罗龙, 孙健   
    CN202510185259.6, 2025
