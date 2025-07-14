@@ -249,6 +249,8 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 2. [中国科学与技术学报](https://ojs.wisvora.com/index.php/cjst) (China Journal of Science and Technology, CJST), ISSN 3079-8434, [青年编委](https://ojs.wisvora.com/index.php/cjst/about/editorialTeam) (Young Editorial Board Member), since 2025.
  
 ## Selected Technical Reviewer:
+1. ACM Computing Surveys (CSUR)
+
 1. IEEE Wireless Communictions
 
 3. IEEE Communications Magazine
