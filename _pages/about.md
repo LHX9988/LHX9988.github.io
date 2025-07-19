@@ -281,9 +281,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
   
 7. Elsevier Computer Science Review (CSR)    
 
-8. Elsevier Digital Communications and Networks (DCN)   
+8. Elsevier Digital Communications and Networks (DCN)
 
-9. Elsevier Computers and Electrical Engineering  
+9. Elsevier Transportation Research Part E  
+
+10. Elsevier Computers and Electrical Engineering  
    
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
