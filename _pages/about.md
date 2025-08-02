@@ -47,27 +47,27 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
-1.  Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration                
+1. Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration                
    **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Zehui Xiong, Xianbin Wang, Xuemin Shen        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2507.00672)
 
-1.  A Trustworthy Multi-LLM Network: Challenges,Solutions, and A Use Case             
+1. A Trustworthy Multi-LLM Network: Challenges,Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
    _IEEE Communications Magazine (ComMag)_, under review | [paper](https://arxiv.org/abs/2505.03196)
 
-1.  A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
+1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2505.05103)  
 
-1.  Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity          
-   **Haoxiang Luo**, Gang Sun, Jiacheng Wang, Hongfang Yu, Schahram Dustdar, Dusit Niyato, Zhu Han   
-   _IEEE Communications Surveys and Tutorials (COMST)_, under review | [paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173626792.21015557) 
-
-1.  DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
+1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato, Schahram Dustdar    
-   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742) 
+   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742)
 
-1.  Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks           
+1. Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity          
+   **Haoxiang Luo**, Gang Sun, Jiacheng Wang, Hongfang Yu, Schahram Dustdar, Dusit Niyato, Zhu Han   
+   _IEEE Communications Surveys and Tutorials (COMST)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11105407/) 
+
+1. Accelerating Block and Transaction Propagation: A Survey on Broadcast Protocols in Blockchain Networks           
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu    
    _IEEE Transactions on Network Science and Engineering (TNSE)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11006297)  
 
