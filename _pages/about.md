@@ -47,6 +47,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
+   **Haoxiang Luo**, Kun Yang, Qi Huang, Schahram Dustdar        
+   _IEEE Transactions on Smart Grid (TSG)_, under review | [paper](https://arxiv.org/abs/2508.04015)
+   
 1. Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration                
    **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Zehui Xiong, Xianbin Wang, Xuemin Shen        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2507.00672)
@@ -261,15 +265,17 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. IEEE Transactions on Wireless Communications (TWC)
 
-2. IEEE Transactions on Cognitive Communications and Networking (TCCN)
+2. IEEE Transactions on Information Forensics and Security (TIFS)
+
+3. IEEE Transactions on Cognitive Communications and Networking (TCCN)
    
-3. IEEE Transactions on Network Science and Engineering (TNSE)
+4. IEEE Transactions on Network Science and Engineering (TNSE)
 
-4. IEEE Transactions on Computational Social Systems (TCSS)
+5. IEEE Transactions on Computational Social Systems (TCSS)
 
-5. IEEE Transactions on Artificial Intelligence (TAI)
+6. IEEE Transactions on Artificial Intelligence (TAI)
 
-6. IEEE Transactions on Vehicular Technology (TVT)
+7. IEEE Transactions on Vehicular Technology (TVT)
 
 3. IEEE Internet of Things Journal (IoTJ)
 
