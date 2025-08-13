@@ -267,15 +267,17 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 2. IEEE Transactions on Information Forensics and Security (TIFS)
 
-3. IEEE Transactions on Cognitive Communications and Networking (TCCN)
+3. IEEE Transactions on Dependable and Secure Computing (TDSC)
+
+4. IEEE Transactions on Cognitive Communications and Networking (TCCN)
    
-4. IEEE Transactions on Network Science and Engineering (TNSE)
+5. IEEE Transactions on Network Science and Engineering (TNSE)
 
-5. IEEE Transactions on Computational Social Systems (TCSS)
+6. IEEE Transactions on Computational Social Systems (TCSS)
 
-6. IEEE Transactions on Artificial Intelligence (TAI)
+7. IEEE Transactions on Artificial Intelligence (TAI)
 
-7. IEEE Transactions on Vehicular Technology (TVT)
+8. IEEE Transactions on Vehicular Technology (TVT)
 
 3. IEEE Internet of Things Journal (IoTJ)
 
