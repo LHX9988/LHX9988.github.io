@@ -65,7 +65,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato, Schahram Dustdar    
-   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2412.04742)
+   _IEEE Transactions on Mobile Computing (TMC)_, 2025 | [paper](https://ieeexplore.ieee.org/abstract/document/11126883)
 
 1. Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity          
    **Haoxiang Luo**, Gang Sun, Jiacheng Wang, Hongfang Yu, Schahram Dustdar, Dusit Niyato, Zhu Han   
