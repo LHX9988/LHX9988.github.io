@@ -47,6 +47,14 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1. Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey                      
+   Yinqiu Liu, Ruichen Zhang, **Haoxiang Luo**, Yijing Lin, Geng Sun, Dusit Niyato, Hongyang Du, Zehui Xiong, Yonggang Wen, Abbas Jamalipour, Dong In Kim, Ping Zhang               
+   _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2508.19870)
+
+1. Real World Assets on-Chain Assistance Low-Altitude Computility Networks: Architecture, Methodology, and Challenges                      
+   **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Zhu Han           
+   _IEEE Internet of Things Magazine (IoTM)_, under review | [paper](https://arxiv.org/abs/2508.17911)
+
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
    **Haoxiang Luo**, Kun Yang, Qi Huang, Schahram Dustdar        
    _IEEE Transactions on Smart Grid (TSG)_, under review | [paper](https://arxiv.org/abs/2508.04015)
