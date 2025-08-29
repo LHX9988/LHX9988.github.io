@@ -69,7 +69,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
-   _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2505.05103)  
+   _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2505.05103)
+
+1. A Weighted Two-Hop Raft Consensus Mechanism for Large-Scale Agricultural Products Traceability       
+   Junhong Yuan, Yang Li, **Haoxiang Luo***, Muhan, He, Shijian Gao, Athanasios V. Vasilakos    
+   _IEEE Access_, 2025 | [paper](https://ieeexplore.ieee.org/document/11142746)
 
 1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV       
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato, Schahram Dustdar    
