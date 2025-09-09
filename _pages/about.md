@@ -293,19 +293,21 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 3. IEEE Internet of Things Journal (IoTJ)
 
-4. IEEE Open Journal of the Communications Society (OJCOMS)   
+4. IEEE Open Journal of the Communications Society (OJCOMS)
 
-5. IEEE ACCESS
+5. IEEE Data Descriptions   
 
-6. Elsevier Neurocomputing (NEUCOM)
+6. IEEE ACCESS
+
+7. Elsevier Neurocomputing (NEUCOM)
   
-7. Elsevier Computer Science Review (CSR)    
+8. Elsevier Computer Science Review (CSR)    
 
-8. Elsevier Digital Communications and Networks (DCN)
+9. Elsevier Digital Communications and Networks (DCN)
 
-9. Elsevier Transportation Research Part E  
+10. Elsevier Transportation Research Part E  
 
-10. Elsevier Computers and Electrical Engineering  
+11. Elsevier Computers and Electrical Engineering  
    
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
