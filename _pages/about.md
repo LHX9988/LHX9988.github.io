@@ -47,6 +47,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:
+1. AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives                        
+   **Haoxiang Luo**, Yu Yan, Yanhu Bian, Wenjiao Feng, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Abbas Jamalipour, Shiwen Mao                  
+   _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2509.09193)
+   
 1. Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey                      
    Yinqiu Liu, Ruichen Zhang, **Haoxiang Luo**, Yijing Lin, Geng Sun, Dusit Niyato, Hongyang Du, Zehui Xiong, Yonggang Wen, Abbas Jamalipour, Dong In Kim, Ping Zhang               
    _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2508.19870)
@@ -153,21 +157,21 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Conference Papers:
 
-1. WBFT-MLLMN: A Weighted BFT Consensus Driven Multiple Large Language Models Network (**Best Paper Award**)     
-   **Haoxiang Luo**, Gang Sun, Hongfang Yu    
-   _IEEE International Conference on Deep Learning and Computer Vision (DLCV)_, accepted, 2025
-
 1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV     
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
    _IEEE International Conference on Communications (ICC)_, accepted, 2025
 
+1. WBFT-MLLMN: A Weighted BFT Consensus Driven Multiple Large Language Models Network (**Best Paper Award**)     
+   **Haoxiang Luo**, Gang Sun, Hongfang Yu    
+   _IEEE International Conference on Deep Learning and Computer Vision (DLCV)_, 2025 | [paper](https://ieeexplore.ieee.org/abstract/document/11088676)
+
 1. SCRaft: Achieving Fast and Stable Elections in Raft Consensus Algorithm  
    Yiqi Wang, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
-   _IEEE International Conference on High Performance Computing and Communications (HPCC)_, accepted, 2024
+   _IEEE International Conference on High Performance Computing and Communications (HPCC)_, 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/11083162)
 
 1. A Multi-Chain Consensus for Power Big Data Transaction in Generation-Grid-Load-Storage Integrated Networks (**Student Travel Grant**)       
    **Haoxiang Luo**, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Yang Zhang    
-   _IEEE Global Communications Conference (Globecom)_, accepted, 2024 | [paper](https://ieeexplore.ieee.org/document/10901434)
+   _IEEE Global Communications Conference (Globecom)_, 2024 | [paper](https://ieeexplore.ieee.org/document/10901434)
    
 3. DHBN: An Efficient Broadcast Protocol for Blockchain Networks in Highly Dynamic Heterogeneous Environment  
    Runze Zheng, **Haoxiang Luo**, Gang Sun, Hongfang Yu  
