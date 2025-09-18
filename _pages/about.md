@@ -303,9 +303,9 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 6. IEEE ACCESS
 
-7. Elsevier Neurocomputing (NEUCOM)
+7. Elsevier Computer Science Review (CSR) 
   
-8. Elsevier Computer Science Review (CSR)    
+8. Elsevier Neurocomputing (NEUCOM)   
 
 9. Elsevier Digital Communications and Networks (DCN)
 
@@ -315,16 +315,20 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
-8. Elsevier International Journal of Cognitive Computing in Engineering (IJCCE)
+8. Elsevier Digital Signal Processing (DSP)
 
-9. Elsevier Engineering Science and Technology, an International Journal (JESTCH)
+9. Elsevier Ad Hoc Networks (ADHOC)
 
-10. Springer The Journal of Supercomputing (TJSC)
+10. Elsevier International Journal of Cognitive Computing in Engineering (IJCCE)
 
-11. Springer Financial Innovation (FINI)
+11. Elsevier Engineering Science and Technology, an International Journal (JESTCH)
 
-12. Springer Peer-to-Peer Networking and Applications (PPNA)
+12. Springer The Journal of Supercomputing (TJSC)
 
-13. Springer Cluster Computing
+13. Springer Financial Innovation (FINI)
+
+14. Springer Peer-to-Peer Networking and Applications (PPNA)
+
+15. Springer Cluster Computing
 
 And others.
