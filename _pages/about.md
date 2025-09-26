@@ -46,7 +46,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    **Haoxiang Luo**, Weijian Chen, Hongfang Yu  
    _Eliva Press Europe_, 2024
 
-## Journal Papers:
+## Journal Papers:   
 1. AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives                        
    **Haoxiang Luo**, Yu Yan, Yanhu Bian, Wenjiao Feng, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Abbas Jamalipour, Shiwen Mao                  
    _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2509.09193)
@@ -62,10 +62,6 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
    **Haoxiang Luo**, Kun Yang, Qi Huang, Schahram Dustdar        
    _IEEE Transactions on Smart Grid (TSG)_, under review | [paper](https://arxiv.org/abs/2508.04015)
-   
-1. Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration                
-   **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Zehui Xiong, Xianbin Wang, Xuemin Shen        
-   _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2507.00672)
 
 1. A Trustworthy Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
@@ -74,6 +70,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, under review | [paper](https://arxiv.org/abs/2505.05103)
+
+1. Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration                
+   **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Zehui Xiong, Xianbin Wang, Xuemin Shen        
+   _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, 2025 | [paper](https://ieeexplore.ieee.org/abstract/document/11175216)
 
 1. A Weighted Two-Hop Raft Consensus Mechanism for Large-Scale Agricultural Products Traceability       
    Junhong Yuan, Yang Li, **Haoxiang Luo***, Muhan, He, Shijian Gao, Athanasios V. Vasilakos    
