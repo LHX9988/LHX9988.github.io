@@ -159,7 +159,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV     
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
-   _IEEE International Conference on Communications (ICC)_, accepted, 2025
+   _IEEE International Conference on Communications (ICC)_,  2025 | [paper](https://ieeexplore.ieee.org/document/11161306)
 
 1. WBFT-MLLMN: A Weighted BFT Consensus Driven Multiple Large Language Models Network (**Best Paper Award**)     
    **Haoxiang Luo**, Gang Sun, Hongfang Yu    
