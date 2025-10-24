@@ -303,15 +303,17 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 6. IEEE ACCESS
 
-7. Elsevier Computer Science Review (CSR) 
+7. Elsevier Computer Science Review (CSR)
+
+8. Elsevier Engineering Applications of Artificial Intelligence (EAAI) 
   
-8. Elsevier Neurocomputing (NEUCOM)   
+9. Elsevier Neurocomputing (NEUCOM)   
 
-9. Elsevier Digital Communications and Networks (DCN)
+10. Elsevier Digital Communications and Networks (DCN)
 
-10. Elsevier Transportation Research Part E  
+11. Elsevier Transportation Research Part E  
 
-11. Elsevier Computers and Electrical Engineering  
+12. Elsevier Computers and Electrical Engineering  
    
 7. Elsevier Blockchain: Research and Applications (BCRA)
 
