@@ -271,7 +271,9 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 ## Selected Technical Reviewer:
 1. ACM Computing Surveys (CSUR)
 
-2. IEEE Journal on Selected Areas in Communications (JSAC)   
+2. IEEE Communications Surveys and Tutorials (COMST)
+
+3. IEEE Journal on Selected Areas in Communications (JSAC)   
 
 1. IEEE Wireless Communictions
 
