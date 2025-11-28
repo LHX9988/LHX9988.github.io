@@ -63,9 +63,9 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    **Haoxiang Luo**, Kun Yang, Qi Huang, Schahram Dustdar        
    _IEEE Transactions on Smart Grid (TSG)_, under review | [paper](https://arxiv.org/abs/2508.04015)
 
-1. A Trustworthy Multi-LLM Network: Challenges, Solutions, and A Use Case             
+1. A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
-   _IEEE Communications Magazine (ComMag)_, under review | [paper](https://arxiv.org/abs/2505.03196)
+   _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2505.03196)
 
 1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
