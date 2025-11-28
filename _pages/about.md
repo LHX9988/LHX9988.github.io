@@ -91,7 +91,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Yidan Lai, Yang Liu, **Haoxiang Luo***, Gang Sun, Cheng Chi, Hongfang Yu    
    _IEEE Transactions on Network Science and Engineering (TNSE)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11006297)  
 
-1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks (**ESI Highly Cited Paper**)      
+1. Convergence of Symbiotic Communications and Blockchain for Sustainable and Trustworthy 6G Wireless Networks (**ESI Highly Cited Paper/Hot Paper**)      
    **Haoxiang Luo**, Gang Sun, Cheng Chi, Hongfang Yu, Mohsen Guizani   
    _IEEE Wireless Communications Magazine (WCM)_, 2025 | [paper](https://ieeexplore.ieee.org/document/10944615)  
 
@@ -99,7 +99,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Tianqi Jiang, **Haoxiang Luo***, Kun Yang, Gang Sun, Hongfang Yu, Qi Huang, Athanasios V. Vasilakos  
    _Sustainable Energy, Grids and Networks (SEGAN)_, 2025 | [paper](https://www.sciencedirect.com/science/article/abs/pii/S2352467724003448)  
 
-2. Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus (**ESI Highly Cited Paper**)   
+2. Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus (**ESI Highly Cited Paper/Hot Paper**)   
    **Haoxiang Luo**, Qianqian Zhang, Gang Sun, Hongfang Yu, Dusit Niyato    
    _IEEE/ACM Transactions on Networking (ToN)_, 2024 | [paper](https://ieeexplore.ieee.org/document/10697309/)
 
