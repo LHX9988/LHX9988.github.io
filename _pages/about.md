@@ -55,10 +55,6 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Yinqiu Liu, Ruichen Zhang, **Haoxiang Luo**, Yijing Lin, Geng Sun, Dusit Niyato, Hongyang Du, Zehui Xiong, Yonggang Wen, Abbas Jamalipour, Dong In Kim, Ping Zhang               
    _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2508.19870)
 
-1. Real World Assets on-Chain Assistance Low-Altitude Computility Networks: Architecture, Methodology, and Challenges                      
-   **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Zhu Han           
-   _IEEE Internet of Things Magazine (IoTM)_, under review | [paper](https://arxiv.org/abs/2508.17911)
-
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
    **Haoxiang Luo**, Kun Yang, Qi Huang, Schahram Dustdar        
    _IEEE Transactions on Smart Grid (TSG)_, under review | [paper](https://arxiv.org/abs/2508.04015)
@@ -66,6 +62,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
    _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2505.03196)
+
+1. Real World Assets on-Chain Assistance Low-Altitude Computility Networks: Architecture, Methodology, and Challenges                      
+   **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Zhu Han           
+   _IEEE Internet of Things Magazine (IoTM)_, 2025 | [paper](https://arxiv.org/abs/2508.17911)
+
 
 1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
