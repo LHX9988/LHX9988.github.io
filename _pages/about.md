@@ -61,7 +61,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
    **Haoxiang Luo**, Kun Yang, Qi Huang, Schahram Dustdar        
-   _Energy Internet_, under review | [paper](https://arxiv.org/abs/2508.04015)
+   _IEEE Transactions on Networking (ToN)_, under review | [paper](https://arxiv.org/abs/2508.04015)
 
 1. A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
@@ -69,7 +69,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. Real World Assets on-Chain Assistance Low-Altitude Computility Networks: Architecture, Methodology, and Challenges                      
    **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Zhu Han           
-   _IEEE Internet of Things Magazine (IoTM)_, 2025 | [paper](https://arxiv.org/abs/2508.17911)
+   _IEEE Internet of Things Magazine (IoTM)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11333932)
 
 
 1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
