@@ -47,6 +47,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:   
+1. AgentVNE: LLM-Augmented Graph Reinforcement Learning for Affinity-Aware Multi-Agent Placement in Edge Agentic AI                           
+   Runze Zheng, Yuqing Zheng, Zhengyi Cheng, Long Luo, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato                      
+   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2601.02021)
+   
 1. Wireless Copilot: An AI-Powered Partner for Navigating Next-Generation Wireless Complexity                        
    **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato, Dong In Kim                      
    _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2512.18582)
