@@ -22,9 +22,9 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2025 IEEE DLCV Best Paper Award
 
-2025 IEEE TNSE Examplery Reviewer
+2025 IEEE TNSE Exemplery Reviewer
 
-2024 IEEE IoTM Examplery Reviewer
+2024 IEEE IoTM Exemplery Reviewer
 
 2024 IEEE Globecom Travel Grant
 
