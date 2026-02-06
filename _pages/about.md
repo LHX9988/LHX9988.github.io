@@ -8,11 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I'm Haoxiang Luo, a third-year Ph.D. candidate with the major of Information and Communication Engineering from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China, advised by Prof. [Hongfang Yu](https://scholar.google.com.hk/citations?user=GmEdMqwAAAAJ&hl=zh-CN) and Prof. [Gang Sun](https://scholar.google.com.hk/citations?user=aUPwLyYAAAAJ&hl=zh-CN). 
+I'm Haoxiang Luo, received Ph.D. degree in 2025 with the major of Information and Communication Engineering from the [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)), Chengdu, China, advised by Prof. [Hongfang Yu](https://scholar.google.com.hk/citations?user=GmEdMqwAAAAJ&hl=zh-CN) and Prof. [Gang Sun](https://scholar.google.com.hk/citations?user=aUPwLyYAAAAJ&hl=zh-CN). 
 
 Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https://www.gla.uestc.edu.cn/), which is a join programme between the [UESTC](https://www.uestc.edu.cn/) and the University of Glasgow ([UoG](https://www.gla.ac.uk/)), UK, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124).
 
-At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy markets, and so on. Also, I am currently a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN).
+At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. Also, I am currently a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN), in 2025.
+
+# Awards
+
+2025 Standford World's ToP 2% Scientist
+
+2026 Young Cultivation Scientists Sponsorship Program for Ph.D. Student by CAST
+
+2025 IEEE DLCV Best Paper Award
+
+2025 IEEE TNSE Examplery Reviewer
+
+2024 IEEE IoTM Examplery Reviewer
+
+2024 IEEE Globecom Travel Grant
+
+3 ESI Highly Cited Papers and 2 ESI Hot Papers
 
 
 # Working Experience
@@ -165,7 +181,14 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _IEEE ACCESS_, 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9364996)
 
 ## Conference Papers:
+1. A Multi-Agent Reinforcement Learning Framework for Proactive Security in Wireless Blockchain Networks        
+   **Haoxiang Luo***, Yinqiu Liu, Ruichen Zhang, Gang Sun, Hongfang Yu, Dusit Niyato, Shui Yu       
+   _IEEE International Conference on Communications (ICC)_,  2026
 
+1. Asset Tokenization of Computing Power Market for Large AI Models in Low-Altitude Wireless Networks        
+   **Haoxiang Luo***, Yinqiu Liu, Ruichen Zhang, Gang Sun, Hongfang Yu, Dusit Niyato, Zhu Han       
+   _IEEE International Conference on Communications (ICC)_,  2026
+  
 1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV     
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
    _IEEE International Conference on Communications (ICC)_,  2025 | [paper](https://ieeexplore.ieee.org/document/11161306)
