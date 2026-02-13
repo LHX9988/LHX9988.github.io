@@ -14,6 +14,12 @@ Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https:
 
 At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. Also, I am currently a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN), in 2025.
 
+# Call for Papers
+
+1. IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)"
+
+2. IEEE DLCV Workshop on "[Multi-Agent Systems (MAS) Collaboration Theory and Applications](https://www.icdlcv.org/workshops-2/)"
+   
 # Awards
 
 2025 Standford World's ToP 2% Scientist
@@ -275,7 +281,16 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 # Services
 
+
+## Journal Editor
+
+1. [中国科学与技术学报](https://ojs.wisvora.com/index.php/cjst) (China Journal of Science and Technology, CJST), ISSN 3079-8434, [青年编委](https://ojs.wisvora.com/index.php/cjst/about/editorialTeam) (Young Editorial Board Member), since 2025.
+
 ## Conference TPC Member & Chair
+
+1. Workshop chair of IEEE International Conference on Deep Learning and Computer Vision (DLCV) 2026
+
+2. Workshop chair of IEEE International Wireless Communications & Mobile Computing Conference (IWCMC) 2026
 
 1. Session chair of IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) 2023
 
@@ -297,12 +312,6 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 10. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024/2025
 
-
-## Journal Editor
-
-1. [Energy Storage and Conversion](https://ojs.acad-pub.com/index.php/ESC), ISSN 3029-2778, Guest Editor for the Special Issue on “[Energy markets and trading](http://2oldtoojsacad.acad-pub.com/s.php/index/detail?id=328)”, 2023
-
-2. [中国科学与技术学报](https://ojs.wisvora.com/index.php/cjst) (China Journal of Science and Technology, CJST), ISSN 3079-8434, [青年编委](https://ojs.wisvora.com/index.php/cjst/about/editorialTeam) (Young Editorial Board Member), since 2025.
  
 ## Selected Technical Reviewer:
 1. ACM Computing Surveys (CSUR)
