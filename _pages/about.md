@@ -63,6 +63,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:   
+1. Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study                               
+   Tingxuan Su, **Haoxiang Luo***, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato                      
+   _IEEE Communications Magazine (ComMag)_, under review | [paper](https://arxiv.org/abs/2602.11798)
+   
 1. AgentVNE: LLM-Augmented Graph Reinforcement Learning for Affinity-Aware Multi-Agent Placement in Edge Agentic AI                           
    Runze Zheng, Yuqing Zheng, Zhengyi Cheng, Long Luo, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato                      
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2601.02021)
