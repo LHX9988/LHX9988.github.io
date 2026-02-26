@@ -26,6 +26,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2026 Young Cultivation Scientists Sponsorship Program for Ph.D. Student by CAST
 
+2026 IEEE TCCN Popular Article
+
 2025 IEEE DLCV Best Paper Award
 
 2025 IEEE TNSE Exemplery Reviewer
@@ -110,7 +112,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11201899)
 
-1. Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration                
+1. Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration (**Popular Article**)       
    **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Zehui Xiong, Xianbin Wang, Xuemin Shen        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11175216)
 
