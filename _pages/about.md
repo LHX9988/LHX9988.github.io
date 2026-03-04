@@ -96,11 +96,15 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
    **Haoxiang Luo**, Kun Yang, Qi Huang, Marco Aiello, Schahram Dustdar        
    _IEEE Transactions on Sustainable Computing (TSUSC)_, under review | [paper](https://arxiv.org/abs/2508.04015)
-
+   
 1. A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
    _IEEE Wireless Communications Magazine (WCM)_, 2026 | [paper](https://arxiv.org/abs/2505.03196)
-
+   
+1. BEST: Blockchain-Enabled Sustainable Task Scheduling for Optimizing Large AI Model Workloads at the Edge                 
+   **Haoxiang Luo**, Runhua Chen, Gang Sun, Hongfang Yu, Schahram Dustdar     
+   _IEEE Transactions on Artificial Intelligence (TAI)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11419149)
+   
 1. Transaction Workload-Aware Rebalancing Optimization Scheme for Payment Channel Networks                      
    Qingqing Cai, Gang Sun, **Haoxiang Luo**, Hongfang Yu, Mohsen Guizani              
    _IEEE Transactions on Network Science and Engineering (TNSE)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11397589)
