@@ -99,7 +99,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    
 1. A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
-   _IEEE Wireless Communications Magazine (WCM)_, 2026 | [paper](https://arxiv.org/abs/2505.03196)
+   _IEEE Wireless Communications Magazine (WCM)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11421955)
    
 1. BEST: Blockchain-Enabled Sustainable Task Scheduling for Optimizing Large AI Model Workloads at the Edge                 
    **Haoxiang Luo**, Runhua Chen, Gang Sun, Hongfang Yu, Schahram Dustdar     
