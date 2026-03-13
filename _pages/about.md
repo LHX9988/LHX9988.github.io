@@ -24,7 +24,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2025 Standford World's ToP 2% Scientist
 
-2025 Young Cultivation Scientists Sponsorship Program for Ph.D. Student by CAST
+2025 Doctoral Student Program of the Young S&T Cultivation Project, CAST
 
 2025 Chinese Institute of Electronics (CIE) Blockchain Society Best Paper Award 
 
