@@ -19,6 +19,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 1. IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)", Co-Chair.
 
 2. IEEE DLCV Workshop on "[Multi-Agent Systems (MAS) Collaboration Theory and Applications](https://www.icdlcv.org/workshops-2/)", Co-Chair.
+
+3. IEEE IoTIR Workshop on "[Embodied Intelligence Empowered Internet of Things: Key Technologies and Practical Applications](https://www.iotir.org/workshops-2/)", Co-Chair.
    
 # Awards
 
