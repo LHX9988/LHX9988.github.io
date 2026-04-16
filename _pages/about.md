@@ -32,6 +32,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2026 IEEE TCCN Popular Article
 
+2026 IEEE IoTM Popular Article
+
 2025 IEEE DLCV Best Paper Award
 
 2025 IEEE TNSE Exemplery Reviewer
