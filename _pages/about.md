@@ -89,10 +89,6 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato, Dong In Kim                      
    _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2512.18582)
    
-1. AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives                        
-   **Haoxiang Luo**, Yu Yan, Yanhu Bian, Wenjiao Feng, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Abbas Jamalipour, Shiwen Mao                  
-   _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2509.09193)
-   
 1. Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey                      
    Yinqiu Liu, Ruichen Zhang, **Haoxiang Luo**, Yijing Lin, Geng Sun, Dusit Niyato, Hongyang Du, Zehui Xiong, Yonggang Wen, Abbas Jamalipour, Dong In Kim, Ping Zhang               
    _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2508.19870)
@@ -100,7 +96,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
    **Haoxiang Luo**, Kun Yang, Qi Huang, Marco Aiello, Schahram Dustdar        
    _IEEE Transactions on Sustainable Computing (TSUSC)_, under review | [paper](https://arxiv.org/abs/2508.04015)
-   
+
+1. AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives                        
+   **Haoxiang Luo**, Yu Yan, Yanhu Bian, Wenjiao Feng, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Abbas Jamalipour, Shiwen Mao                  
+   _ACM Computing Surveys (CSUR)_, 2026 | [paper](https://dl.acm.org/doi/10.1145/3811822)
+
 1. A Trustworthy Agentic Multi-LLM Network: Challenges, Solutions, and A Use Case             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dusit Niyato, Hongfang Yu, Mohammed Atiquzzaman, Schahram Dustdar     
    _IEEE Wireless Communications Magazine (WCM)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11421955)
