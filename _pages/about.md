@@ -42,7 +42,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2024 IEEE Globecom Travel Grant
 
-3 ESI Highly Cited Papers and 2 ESI Hot Papers
+4 ESI Highly Cited Papers and 2 ESI Hot Papers
 
 
 # Working Experience
@@ -113,7 +113,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Qingqing Cai, Gang Sun, **Haoxiang Luo**, Hongfang Yu, Mohsen Guizani              
    _IEEE Transactions on Network Science and Engineering (TNSE)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11397589)
 
-1. Real World Assets on-Chain Assistance Low-Altitude Computility Networks: Architecture, Methodology, and Challenges                      
+1. Real World Assets on-Chain Assistance Low-Altitude Computility Networks: Architecture, Methodology, and Challenges (**Popular Article**)                       
    **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Zhu Han              
    _IEEE Internet of Things Magazine (IoTM)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11333932)
 
@@ -134,7 +134,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato, Schahram Dustdar    
    _IEEE Transactions on Mobile Computing (TMC)_, 2025 | [paper](https://ieeexplore.ieee.org/abstract/document/11126883)
 
-1. Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity          
+1. Wireless Blockchain Meets 6G: The Future Trustworthy and Ubiquitous Connectivity (**ESI Highly Cited Paper**)                
    **Haoxiang Luo**, Gang Sun, Jiacheng Wang, Hongfang Yu, Schahram Dustdar, Dusit Niyato, Zhu Han   
    _IEEE Communications Surveys and Tutorials (COMST)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11105407/) 
 
