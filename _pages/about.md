@@ -12,7 +12,7 @@ I'm Haoxiang Luo, received Ph.D. degree in 2025 with the major of Information an
 
 Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https://www.gla.uestc.edu.cn/), which is a join programme between the [UESTC](https://www.uestc.edu.cn/) and the University of Glasgow ([UoG](https://www.gla.ac.uk/)), UK, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124).
 
-At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. Also, I am currently a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN), in 2025.
+At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. Also, I was a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN), from May 2025 to November 2025.
 
 # Call for Papers
 
@@ -33,6 +33,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 2026 IEEE TCCN Popular Article
 
 2026 IEEE IoTM Popular Article
+
+2026 IEEE IWCMC Best Paper Award
 
 2025 IEEE DLCV Best Paper Award
 
