@@ -72,7 +72,8 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:   
-1. SkyChain Intelligence: A Blockchain-Secured Multi-Agent DRL Framework for Low-Altitude Embodied Artificial Intelligence                                **Haoxiang Luo**, Tianqi Jiang, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Abbas Jamalipour, Dong In Kim                      
+1. SkyChain Intelligence: A Blockchain-Secured Multi-Agent DRL Framework for Low-Altitude Embodied Artificial Intelligence     
+   **Haoxiang Luo**, Tianqi Jiang, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Abbas Jamalipour, Dong In Kim                      
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2606.24193)
    
 1. Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study                               
