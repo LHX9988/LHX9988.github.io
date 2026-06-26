@@ -77,15 +77,15 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2606.24193)
    
 1. Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study                               
-   Tingxuan Su, **Haoxiang Luo***, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato                      
+   Tingxuan Su, **Haoxiang Luo***, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu                       
    _IEEE Communications Magazine (ComMag)_, under review | [paper](https://arxiv.org/abs/2602.11798)
    
 1. AgentVNE: LLM-Augmented Graph Reinforcement Learning for Affinity-Aware Multi-Agent Placement in Edge Agentic AI                           
-   Runze Zheng, Yuqing Zheng, Zhengyi Cheng, Long Luo, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato                      
+   Runze Zheng, Yuqing Zheng, Zhengyi Cheng, Long Luo, **Haoxiang Luo***, Gang Sun, Hongfang Yu                        
    _IEEE Transactions on Services Computing (TSC)_, under review | [paper](https://arxiv.org/abs/2601.02021)
    
 1. Wireless Copilot: An AI-Powered Partner for Navigating Next-Generation Wireless Complexity                        
-   **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato, Dong In Kim                      
+   **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dong In Kim                      
    _IEEE Wireless Communications Magazine (WCM)_, under review | [paper](https://arxiv.org/abs/2512.18582)
    
 1. Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey                      
