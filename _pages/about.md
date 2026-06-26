@@ -14,13 +14,6 @@ Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https:
 
 At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. Also, I was a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN), from May 2025 to November 2025.
 
-# Call for Papers
-
-1. IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)", Co-Chair.
-
-2. IEEE DLCV Workshop on "[Multi-Agent Systems (MAS) Collaboration Theory and Applications](https://www.icdlcv.org/workshops-2/)", Co-Chair.
-
-3. IEEE IoTIR Workshop on "[Embodied Intelligence Empowered Internet of Things: Key Technologies and Practical Applications](https://www.iotir.org/workshops-2/)", Co-Chair.
    
 # Awards
 
@@ -79,13 +72,16 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _Eliva Press Europe_, 2024
 
 ## Journal Papers:   
+1. SkyChain Intelligence: A Blockchain-Secured Multi-Agent DRL Framework for Low-Altitude Embodied Artificial Intelligence                             **Haoxiang Luo***, Tianqi Jiang, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Abbas Jamalipour, Dong In Kim                      
+   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2606.24193)
+   
 1. Real-World Asset Integration in Next-Generation Communication Networks: Fundamental, Framework, and Case Study                               
    Tingxuan Su, **Haoxiang Luo***, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato                      
    _IEEE Communications Magazine (ComMag)_, under review | [paper](https://arxiv.org/abs/2602.11798)
    
 1. AgentVNE: LLM-Augmented Graph Reinforcement Learning for Affinity-Aware Multi-Agent Placement in Edge Agentic AI                           
    Runze Zheng, Yuqing Zheng, Zhengyi Cheng, Long Luo, **Haoxiang Luo***, Gang Sun, Hongfang Yu, Dusit Niyato                      
-   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2601.02021)
+   _IEEE Transactions on Services Computing (TSC)_, under review | [paper](https://arxiv.org/abs/2601.02021)
    
 1. Wireless Copilot: An AI-Powered Partner for Navigating Next-Generation Wireless Complexity                        
    **Haoxiang Luo**, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Dusit Niyato, Dong In Kim                      
@@ -302,102 +298,20 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 ## Journal Editor
 
-1. [中国科学与技术学报](https://ojs.wisvora.com/index.php/cjst) (China Journal of Science and Technology, CJST), ISSN 3079-8434, [青年编委](https://ojs.wisvora.com/index.php/cjst/about/editorialTeam) (Young Editorial Board Member), since 2025.
+1. [Journal of Communications and Information Networks](https://www.jcin.com.cn), Young Editorial Board Member, since 2026.
 
-## Conference TPC Member & Chair
 
-1. Workshop chair of IEEE International Conference on Deep Learning and Computer Vision (DLCV) 2026
+# Conference
 
-2. Workshop chair of IEEE International Wireless Communications & Mobile Computing Conference (IWCMC) 2026
+1. IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)", Co-Chair.
 
-1. Session chair of IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) 2023
+2. IEEE DLCV Workshop on "[Multi-Agent Systems (MAS) Collaboration Theory and Applications](https://www.icdlcv.org/workshops-2/)", Co-Chair.
 
-2. TPC member of IEEE International Symposium on Information Theory (ISIT) 2025
+3. IEEE IoTIR Workshop on "[Embodied Intelligence Empowered Internet of Things: Key Technologies and Practical Applications](https://www.iotir.org/workshops-2/)", Co-Chair.
 
-3. TPC member of IEEE International Conference on Communicaiotns (ICC) 2025
-
-4. TPC member of IEEE International Conference on ICT Solutions for eHealth (ICTS4eHealth) 2024
-
-5. TPC member of IEEE Global Blockchain Conference (GBC) 2024
-
-6. TPC member of IEEE Vehicular Technology Conference-Fall (VTC-Fall) 2024
-
-7. TPC member of IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS) 2024
-
-8. TPC member of IEEE Vehicular Technology Conference-Spring (VTC-Spring) 2024
-
-9. TPC member of IEEE Wireless Communications and Networking Conference (WCNC) 2024/2025
-
-10. TPC member of IEEE International Symposium on Foundation and Large Language Models (FLLM) 2023/2024/2025
+4. TPC Member of IEEE ICC/ISIT/VTC/WCNC...
 
  
 ## Selected Technical Reviewer:
-1. ACM Computing Surveys (CSUR)
+ACM CSUR/IEEE COMST/JSAC/WCM/ComMag/Network/IoTM/TWC/TIFS/TDSC/TWC/TCCN/TNSE/TNSM/TCSS/TAI/TVT/IoTJ/OJCOMS...
 
-2. IEEE Communications Surveys and Tutorials (COMST)
-
-3. IEEE Journal on Selected Areas in Communications (JSAC)   
-
-1. IEEE Wireless Communictions
-
-3. IEEE Communications Magazine
-
-4. IEEE Network
-
-5. IEEE Internet of Things Magazine (IoTM)
-
-1. IEEE Transactions on Wireless Communications (TWC)
-
-2. IEEE Transactions on Information Forensics and Security (TIFS)
-
-3. IEEE Transactions on Dependable and Secure Computing (TDSC)
-
-4. IEEE Transactions on Cognitive Communications and Networking (TCCN)
-   
-5. IEEE Transactions on Network Science and Engineering (TNSE)
-
-6. IEEE Transactions on Computational Social Systems (TCSS)
-
-7. IEEE Transactions on Artificial Intelligence (TAI)
-
-8. IEEE Transactions on Vehicular Technology (TVT)
-
-3. IEEE Internet of Things Journal (IoTJ)
-
-4. IEEE Open Journal of the Communications Society (OJCOMS)
-
-5. IEEE Data Descriptions   
-
-6. IEEE ACCESS
-
-7. Elsevier Computer Science Review (CSR)
-
-8. Elsevier Engineering Applications of Artificial Intelligence (EAAI) 
-  
-9. Elsevier Neurocomputing (NEUCOM)   
-
-10. Elsevier Digital Communications and Networks (DCN)
-
-11. Elsevier Transportation Research Part E  
-
-12. Elsevier Computers and Electrical Engineering  
-   
-7. Elsevier Blockchain: Research and Applications (BCRA)
-
-8. Elsevier Digital Signal Processing (DSP)
-
-9. Elsevier Ad Hoc Networks (ADHOC)
-
-10. Elsevier International Journal of Cognitive Computing in Engineering (IJCCE)
-
-11. Elsevier Engineering Science and Technology, an International Journal (JESTCH)
-
-12. Springer The Journal of Supercomputing (TJSC)
-
-13. Springer Financial Innovation (FINI)
-
-14. Springer Peer-to-Peer Networking and Applications (PPNA)
-
-15. Springer Cluster Computing
-
-And others.
