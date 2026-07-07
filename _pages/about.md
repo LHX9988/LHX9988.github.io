@@ -61,17 +61,12 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 # Publications
 
-## Books:
-
-1. Blockchain-Enabled Internet of Things: The Perspective of Broadcasting, Cryptography, Consensus and Sharding  
-   **Haoxiang Luo**, Hongfang Yu  
-   _Eliva Press Europe_, 2023
-   
-2. Cryptanalysis of a Class of Lightweight Block Cipher: And Its Application in Identity Authentication  
-   **Haoxiang Luo**, Weijian Chen, Hongfang Yu  
-   _Eliva Press Europe_, 2024
-
 ## Journal Papers:   
+
+1. Agentic-SecPBFT: Agentic AI-Driven Proactive Security Framework for Wireless PBFT Consensus in Mobile Ad-Hoc Networks        
+   **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Guangyuan Liu, Gang Sun, Hongfang Yu, Zhu Han, Dong In Kim                          
+   _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2607.03269)
+   
 1. SkyChain Intelligence: A Blockchain-Secured Multi-Agent DRL Framework for Low-Altitude Embodied Artificial Intelligence     
    **Haoxiang Luo**, Tianqi Jiang, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Abbas Jamalipour, Dong In Kim                      
    _IEEE Transactions on Mobile Computing (TMC)_, under review | [paper](https://arxiv.org/abs/2606.24193)
@@ -273,6 +268,16 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 12. Analysis of a multichannel lightweight identity authentication method    
     **Haoxiang Luo**, Weijian Chen, Cheng Chen, Yiqing Yang, Yingyi Zhang, Yifan Wu    
    _IEEE International Conference on Communication Technology (ICCT)_, 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8947038)
+
+## Books:
+
+1. Blockchain-Enabled Internet of Things: The Perspective of Broadcasting, Cryptography, Consensus and Sharding  
+   **Haoxiang Luo**, Hongfang Yu  
+   _Eliva Press Europe_, 2023
+   
+2. Cryptanalysis of a Class of Lightweight Block Cipher: And Its Application in Identity Authentication  
+   **Haoxiang Luo**, Weijian Chen, Hongfang Yu  
+   _Eliva Press Europe_, 2024
 
 ## Patents:
 
