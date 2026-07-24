@@ -91,6 +91,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    **Haoxiang Luo**, Kun Yang, Qi Huang, Marco Aiello, Schahram Dustdar        
    _IEEE Transactions on Sustainable Computing (TSUSC)_, under review | [paper](https://arxiv.org/abs/2508.04015)
 
+1. Quantum-Enhanced Multi-Agent Reinforcement Learning for Ubiquitous LLM Inference via Embodied UAV Swarms                
+   Xiangdong Zheng, Long Luo, Hongfang Yu, **Haoxiang Luo**           
+   _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11622484)
+   
 1. AI Reasoning for Wireless Communications and Networking: A Survey and Perspectives                        
    **Haoxiang Luo**, Yu Yan, Yanhu Bian, Wenjiao Feng, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Gang Sun, Dusit Niyato, Hongfang Yu, Abbas Jamalipour, Shiwen Mao                  
    _ACM Computing Surveys (CSUR)_, 2026 | [paper](https://dl.acm.org/doi/10.1145/3811822)
@@ -208,14 +212,6 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. Agentic AI-Enabled Space-Air Integrated Computing Power Network (SAICPN) for Efficient Task Execution in 6G (**Best Paper Award**)            
    **Haoxiang Luo**, Runze Zheng, Ruichen Zhang, Yinqiu Liu, Gang Sun, Hongfang Yu, Mohsen Guizani        
    _IEEE International Wireless Communications and Mobile Computing (IWCMC)_,  2026 | [paper](https://ieeexplore.ieee.org/document/11579887)
-   
-1. A Multi-Agent Reinforcement Learning Framework for Proactive Security in Wireless Blockchain Networks        
-   **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Gang Sun, Hongfang Yu, Dusit Niyato, Shui Yu       
-   _IEEE International Conference on Communications (ICC)_,  2026
-
-1. Asset Tokenization of Computing Power Market for Large AI Models in Low-Altitude Wireless Networks        
-   **Haoxiang Luo**, Yinqiu Liu, Ruichen Zhang, Gang Sun, Hongfang Yu, Dusit Niyato, Zhu Han       
-   _IEEE International Conference on Communications (ICC)_,  2026
   
 1. DRDST: Low-latency DAG Consensus through Robust Dynamic Sharding and Tree-broadcasting for IoV     
    Runhua Chen, **Haoxiang Luo***, Gang Sun, Hongfang Yu    
