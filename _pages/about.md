@@ -62,10 +62,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 # Publications
 
 ## Standardization: 
+1. IEEE P3232.03 Standard for Framework of Blockchain-Based Digital Provenance, 2026, Voting Member.
+
 
 1. IEEE P3232.01 Standard for Blockchain System Governance Specification, 2026, Participant.
-
-2. IEEE P3232.03 Standard for Framework of Blockchain-Based Digital Provenance, 2026, Voting Member.
 
 ## Journal Papers:   
 
