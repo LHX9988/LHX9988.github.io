@@ -12,7 +12,8 @@ I'm Haoxiang Luo, received Ph.D. degree in 2025 with the major of Information an
 
 Before that, I obtaied my B.Eng. degree from the [Glasgow College, UESTC](https://www.gla.uestc.edu.cn/), which is a join programme between the [UESTC](https://www.uestc.edu.cn/) and the University of Glasgow ([UoG](https://www.gla.ac.uk/)), UK, under the guidance of Prof. [Weijian Chen](https://baike.baidu.com/item/%E9%99%88%E4%BC%9F%E5%BB%BA/10235124).
 
-At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. Also, I was a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN), from May 2025 to November 2025.
+Also, I was a Visiting Student at the College of Computing and Data Science (CCDS), Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Singapore, under the guidance of Prof. [Dusit Niyato](https://scholar.google.com.hk/citations?user=T8sVhLMAAAAJ&hl=zh-CN) (Fellow of IEEE), from May 2025 to November 2025, and a Visiting Research Fellow at the Department of Electrical and Computer Engineering, Sungkyunkwan University ([SKKU](https://www.skku.edu/eng/index.do)) in South Korea, under the guidance of Prof. [Dong In Kim](https://scholar.google.com.hk/citations?user=v2chr7kAAAAJ&hl=zh-CN) (Life Fellow of IEEE, Fellow of KAST, and Member of NAEK), form May 2026 to June 2026.
+At this moment, my research interests are Blockchain, Internet of Things, Networks, Trustworthy LLM, Energy Informatics, and so on. 
 
    
 # Awards
