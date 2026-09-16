@@ -93,11 +93,15 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey                      
    Yinqiu Liu, Ruichen Zhang, **Haoxiang Luo**, Yijing Lin, Geng Sun, Dusit Niyato, Hongyang Du, Zehui Xiong, Yonggang Wen, Abbas Jamalipour, Dong In Kim, Ping Zhang               
    _ACM Computing Surveys (CSUR)_, under review | [paper](https://arxiv.org/abs/2508.19870)
-
-1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks                   
-   **Haoxiang Luo**, Kun Yang, Qi Huang, Marco Aiello, Schahram Dustdar        
+   
+1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks        
+   **Haoxiang Luo**, Kun Yang, Qi Huang, Marco Aiello, Schahram Dustdar                          
    _IEEE Transactions on Sustainable Computing (TSUSC)_, under review | [paper](https://arxiv.org/abs/2508.04015)
-
+   
+1. Agentic AI-Native Collaborative Task Offloading and Resource Orchestration for 6G Space–Air-Integrated Computing Power Networks                  
+   **Haoxiang Luo**, Gang Sun, Long Luo, Hongfang Yu, Hongke Zhang            
+   _Engineering_, 2026 | [paper](https://www.sciencedirect.com/science/article/pii/S2095809926004947)
+   
 1. Quantum-Enhanced Multi-Agent Reinforcement Learning for Ubiquitous LLM Inference via Embodied UAV Swarms                
    Xiangdong Zheng, Long Luo, Hongfang Yu, **Haoxiang Luo**           
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11622484)
