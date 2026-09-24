@@ -38,7 +38,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2024 IEEE Globecom Travel Grant
 
-4 ESI Highly Cited Papers and 2 ESI Hot Papers
+5 ESI Highly Cited Papers and 2 ESI Hot Papers
 
 
 # Working Experience
@@ -127,7 +127,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
    _IEEE Internet of Things Magazine (IoTM)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11333932)
 
 
-1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network             
+1. A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network (**ESI Highly Cited Paper**)             
    **Haoxiang Luo**, Gang Sun, Yinqiu Liu, Dongcheng Zhao, Dusit Niyato, Hongfang Yu, Schahram Dustdar        
    _IEEE Transactions on Cognitive Communications and Networking (TCCN)_, 2025 | [paper](https://ieeexplore.ieee.org/document/11201899)
 
