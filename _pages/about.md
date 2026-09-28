@@ -97,7 +97,11 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 1. A Novel Hierarchical Co-Optimization Framework for Coordinated Task Scheduling and Power Dispatch in Computing Power Networks        
    **Haoxiang Luo**, Kun Yang, Qi Huang, Marco Aiello, Schahram Dustdar                          
    _IEEE Transactions on Sustainable Computing (TSUSC)_, under review | [paper](https://arxiv.org/abs/2508.04015)
-   
+
+1. Knowledge-Driven Reasoning for Mobile Agentic AI: Concepts, Approaches, and Directions                             
+   Guanyuan Liu, Changyuan Zhao, Yinqiu Liu, **Haoxiang Luo**, Biplab Sikdar                         
+   _IEEE Wireless Communications Magazine (WCM)_, 2026 | [paper](https://ieeexplore.ieee.org/document/11711045)
+
 1. Agentic AI-Native Collaborative Task Offloading and Resource Orchestration for 6G Space–Air-Integrated Computing Power Networks                  
    **Haoxiang Luo**, Gang Sun, Long Luo, Hongfang Yu, Hongke Zhang            
    _Engineering_, 2026 | [paper](https://www.sciencedirect.com/science/article/pii/S2095809926004947)
