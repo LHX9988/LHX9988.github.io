@@ -18,7 +18,7 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
    
 # Awards
 
-2025 Standford World's ToP 2% Scientist
+2025-2026 Standford World's ToP 2% Scientist
 
 2025 Doctoral Student Program of the Young S&T Cultivation Project, CAST
 
