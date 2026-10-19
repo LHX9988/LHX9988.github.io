@@ -330,6 +330,8 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 # Conference
 
+1. 2027 IEEE IWCMC [ICTCE](https://ictce.org/index.html) TPC Co-Chair.
+   
 1. 2027 IEEE IWCMC Workshop on "[Space-Air-Ground Smart Computing Integration Networks (SAG-SCIN)](https://iwcmc.net/2027/files/workshops/SAG-SCIN_IWCMC2027.pdf)", Co-Chair.
    
 1. 2026 IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)", Co-Chair.
