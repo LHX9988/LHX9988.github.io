@@ -24,6 +24,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2025 Doctoral Student Program of the Young S&T Cultivation Project, CAST
 
+2026 Chinese Institute of Electronics (CIE) Blockchain Society Best Paper Award 
+
 2025 Chinese Institute of Electronics (CIE) Blockchain Society Best Paper Award 
 
 2026 IEEE TCCN Popular Article
