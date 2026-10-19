@@ -20,6 +20,8 @@ At this moment, my research interests are Blockchain, Internet of Things, Networ
 
 2025-2026 Standford World's ToP 2% Scientist
 
+2026 IEEE ICCT Young Scholar Award
+
 2025 Doctoral Student Program of the Young S&T Cultivation Project, CAST
 
 2025 Chinese Institute of Electronics (CIE) Blockchain Society Best Paper Award 
@@ -328,11 +330,13 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 # Conference
 
-1. IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)", Co-Chair.
+1. 2027 IEEE IWCMC Workshop on "[Space-Air-Ground Smart Computing Integration Networks (SAG-SCIN)](https://iwcmc.net/2027/files/workshops/SAG-SCIN_IWCMC2027.pdf)", Co-Chair.
+   
+1. 2026 IEEE IWCMC Workshop on "[AI Large Model-enabled Trustworthy Wireless Networks (LMTWN)](https://iwcmc.net/2026/files/workshops/Gang-Sun-LMTWN.pdf)", Co-Chair.
 
-2. IEEE DLCV Workshop on "[Multi-Agent Systems (MAS) Collaboration Theory and Applications](https://www.icdlcv.org/workshops-2/)", Co-Chair.
+2. 2026 IEEE DLCV Workshop on "[Multi-Agent Systems (MAS) Collaboration Theory and Applications](https://www.icdlcv.org/workshops-2/)", Co-Chair.
 
-3. IEEE IoTIR Workshop on "[Embodied Intelligence Empowered Internet of Things: Key Technologies and Practical Applications](https://www.iotir.org/workshops-2/)", Co-Chair.
+3. 2026 IEEE IoTIR Workshop on "[Embodied Intelligence Empowered Internet of Things: Key Technologies and Practical Applications](https://www.iotir.org/workshops-2/)", Co-Chair.
 
 4. TPC Member of IEEE ICC/ISIT/VTC/WCNC...
 
