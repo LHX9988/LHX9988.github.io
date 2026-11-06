@@ -333,6 +333,10 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 # Conference
 
 1. 2027 IEEE [ICTCE](https://ictce.org/index.html) TPC Co-Chair.
+
+2. 2027 [ICISCS](http://iciscs.org/), Publication Chair.
+
+3. 2027 [CoIDS](https://www.icoids.com/), Financial Chair
    
 1. 2027 IEEE IWCMC Workshop on "[Space-Air-Ground Smart Computing Integration Networks (SAG-SCIN)](https://iwcmc.net/2027/files/workshops/SAG-SCIN_IWCMC2027.pdf)", Co-Chair.
    
