@@ -329,6 +329,7 @@ From May to November 2019, I worked as RA in [Sichuan Provincial Key Laboratory 
 
 1. [Journal of Communications and Information Networks](https://www.jcin.com.cn), Youth Editorial Board Member, since 2026.
 2. [AI Plus](https://www.the-innovation.org/ai-plus/), Youth Editorial Board Member, since 2026.
+3. [Chinese Journal of Network and Information Security](https://www.cjnis.com.cn/homeNav?lang=zh), Youth Editorial Board Member, since 2027.
 
 # Conference
 
